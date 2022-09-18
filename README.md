@@ -1,6 +1,6 @@
 # PyGeek协会内容发布网站
 
-[欢迎访问👉](http://150.158.97.38/)
+[欢迎访问👉](http://www.pygeek.club/)
 [代码托管💻](https://gitee.com/su_ye0620/Django_Blog)
 
 ## 基于Django+Simpleui
